@@ -1,4 +1,4 @@
-name: Finance Service CI Pipeline
+name: Finance Service CI Pipeline.
 
 on:
   push:
